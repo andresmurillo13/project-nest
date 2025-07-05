@@ -71,7 +71,7 @@ La API estará disponible en: [http://localhost:3000](http://localhost:3000)
   }
   ```
 
-- `GET /users/:id/messages`  
+- `GET /users/:id`  
   Listar los mensajes de un usuario  
   **Ejemplo:**  
   `GET http://localhost:3000/users/1`
